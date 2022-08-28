@@ -1,0 +1,65 @@
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\bin\Debug\Mailroom App.exe.config
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\bin\Debug\Mailroom App.exe
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\bin\Debug\Mailroom App.pdb
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom App.csproj.AssemblyReference.cache
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom_App.Properties.Resources.resources
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom App.csproj.GenerateResource.cache
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom App.csproj.CoreCompileInputs.cache
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom App.exe
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom App.pdb
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom_App.ServerConfig.resources
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom App.csproj.CopyComplete
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom_App.MailroomForm.resources
+C:\Users\Polo\source\repos\Mailroom - Copy\Mailroom App\bin\Debug\Mailroom App.exe.config
+C:\Users\Polo\source\repos\Mailroom - Copy\Mailroom App\bin\Debug\Mailroom App.exe
+C:\Users\Polo\source\repos\Mailroom - Copy\Mailroom App\bin\Debug\Mailroom App.pdb
+C:\Users\Polo\source\repos\Mailroom - Copy\Mailroom App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Polo\source\repos\Mailroom - Copy\Mailroom App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Polo\source\repos\Mailroom - Copy\Mailroom App\obj\Debug\Mailroom App.csproj.AssemblyReference.cache
+C:\Users\Polo\source\repos\Mailroom - Copy\Mailroom App\obj\Debug\Mailroom App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Polo\source\repos\Mailroom - Copy\Mailroom App\obj\Debug\Mailroom_App.MailroomForm.resources
+C:\Users\Polo\source\repos\Mailroom - Copy\Mailroom App\obj\Debug\Mailroom_App.Properties.Resources.resources
+C:\Users\Polo\source\repos\Mailroom - Copy\Mailroom App\obj\Debug\Mailroom_App.ServerConfig.resources
+C:\Users\Polo\source\repos\Mailroom - Copy\Mailroom App\obj\Debug\Mailroom App.csproj.GenerateResource.cache
+C:\Users\Polo\source\repos\Mailroom - Copy\Mailroom App\obj\Debug\Mailroom App.csproj.CoreCompileInputs.cache
+C:\Users\Polo\source\repos\Mailroom - Copy\Mailroom App\obj\Debug\Mailroom App.csproj.CopyComplete
+C:\Users\Polo\source\repos\Mailroom - Copy\Mailroom App\obj\Debug\Mailroom App.exe
+C:\Users\Polo\source\repos\Mailroom - Copy\Mailroom App\obj\Debug\Mailroom App.pdb
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom_App.Add.AddShipmentForm.resources
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom_App.Edit.EditShipmentForm.resources
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom_App.Delete.DelShipmentForm.resources
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom_App.Add.AddLBagForm.resources
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom_App.Add.AddPBagForm.resources
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom_App.Add.AddParcelForm.resources
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom_App.Edit.EditParcelForm.resources
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom_App.Delete.DelParcelForm.resources
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom_App.Delete.DelLBagForm.resources
+C:\Users\Polo\source\repos\Mailroom\Mailroom App\obj\Debug\Mailroom_App.Delete.DelPBagForm.resources
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\bin\Debug\Mailroom App.exe.config
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\bin\Debug\Mailroom App.exe
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\bin\Debug\Mailroom App.pdb
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom App.csproj.AssemblyReference.cache
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom_App.Add.AddPBagForm.resources
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom_App.Add.AddLBagForm.resources
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom_App.Add.AddParcelForm.resources
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom_App.Add.AddShipmentForm.resources
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom_App.Delete.DelPBagForm.resources
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom_App.Delete.DelLBagForm.resources
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom_App.Delete.DelParcelForm.resources
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom_App.Delete.DelShipmentForm.resources
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom_App.Edit.EditParcelForm.resources
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom_App.Edit.EditShipmentForm.resources
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom_App.MailroomForm.resources
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom_App.Properties.Resources.resources
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom_App.ServerConfig.resources
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom App.csproj.GenerateResource.cache
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom App.csproj.CoreCompileInputs.cache
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom App.csproj.CopyComplete
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom App.exe
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom App\obj\Debug\Mailroom App.pdb

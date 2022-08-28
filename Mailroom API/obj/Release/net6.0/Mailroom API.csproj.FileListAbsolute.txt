@@ -1,0 +1,64 @@
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\appsettings.json
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Mailroom API.exe
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Mailroom API.deps.json
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Mailroom API.runtimeconfig.json
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Mailroom API.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Mailroom API.pdb
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Humanizer.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Innofactor.EfCoreJsonValueConverter.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Innofactor.EfCoreJsonValueConverter.Attributes.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\obj\Release\net6.0\Mailroom API.csproj.AssemblyReference.cache
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\obj\Release\net6.0\Mailroom API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\obj\Release\net6.0\Mailroom API.AssemblyInfoInputs.cache
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\obj\Release\net6.0\Mailroom API.AssemblyInfo.cs
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\obj\Release\net6.0\Mailroom API.csproj.CoreCompileInputs.cache
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\obj\Release\net6.0\Mailroom API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\obj\Release\net6.0\Mailroom API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\obj\Release\net6.0\scopedcss\bundle\Mailroom API.styles.css
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\obj\Release\net6.0\Mailroom API.csproj.CopyComplete
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\obj\Release\net6.0\Mailroom API.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\obj\Release\net6.0\refint\Mailroom API.dll
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\obj\Release\net6.0\Mailroom API.pdb
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\obj\Release\net6.0\Mailroom API.genruntimeconfig.cache
+C:\Users\Polo\source\repos\Mailroom Manager\Mailroom API\obj\Release\net6.0\ref\Mailroom API.dll
